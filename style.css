@@ -36,6 +36,11 @@
     padding: 10px
     margin-left: 90px;
     font-size: 35px;
+    text-indent: 40px;
+  }
+
+   .p.child-heading {
+     margin-left: 110px;
   }
 
   .header-right {
