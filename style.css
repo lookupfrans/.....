@@ -30,7 +30,10 @@
   }
 
   .child-heading {
-    text-indent: 100px;
+    float: left;
+    padding: 10px
+    text-indent: px;
+    font-size: 35px;
   }
 
   .header-right {
