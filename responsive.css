@@ -3,4 +3,20 @@
 .header-right {
     display: none;
  }
+    
+ .menu-icon {
+     display: block;
+ }
+   
+  .wrapper {
+      width: 100%:
+  }
+    
+  .audio {
+      width: 100%:
+  }
+    
+  .container {
+      width: 100%:
+  }
 }
