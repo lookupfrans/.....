@@ -72,12 +72,11 @@
   .carousel img {
     height: 100%;
     width: 100%;
+    margin-right: 200px;
+    align-items: center;
     border-radius: 18px;
     border: 10px solid #fff;
     object-fit: cover;
-  }
-  img {
-    width: 100%;
   }
 
   
