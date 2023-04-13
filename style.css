@@ -10,7 +10,7 @@ body {
   align-items: center;
   justify-content: center;
   text-align: center;
-  background-color: linear-gradient(to bottom right, blue, white);
+  background-image: linear-gradient(to bottom right, blue, white);
   margin-top: 20px;
 }
 
