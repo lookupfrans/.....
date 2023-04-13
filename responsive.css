@@ -1,15 +1,18 @@
 @media all and (max-width: 670px) {
-
-.header-right {
-    display: none;
- }
+    .header-left .child {
+        color: white;
+    }
     
- span.menu-icon {
-    display: block;
-  }
+    .header-right {
+        display: none;
+    }
     
- .wrapper {
-   margin-left: 0;
-   width: 100%;
- }
+    span.menu-icon {
+        display: block;
+    }
+    
+    .wrapper {
+        margin-left: 0;
+        width: 100%;
+    }
 }
