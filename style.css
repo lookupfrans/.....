@@ -43,6 +43,14 @@ header {
   margin-right: 50px;
 }
 
+span.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  display: none;
+}
+
 .header-right a {
   text-decoration: none;
   line-height: 65px;
