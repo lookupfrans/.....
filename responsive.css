@@ -3,6 +3,10 @@
         color: white;
     }
     
+     .header-left {
+        color: white;
+    }
+    
     .header-right {
         display: none;
     }
