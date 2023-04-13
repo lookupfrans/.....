@@ -4,7 +4,12 @@
     display: none;
  }
     
- .menu-icon {
-     display: block;
+ span.menu-icon {
+    display: block;
   }
+    
+ .wrapper {
+   margin-left: 0;
+   width: 100%;
+ }
 }
