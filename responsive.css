@@ -9,6 +9,7 @@
     
     span.menu-icon {
         display: block;
+        float: left;
     }
     
     .wrapper {
