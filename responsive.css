@@ -4,8 +4,10 @@
     }
     
      .header-left {
-        color: white;
+        color:black;
+        background-color: rgba(34, 49, 52, 0.9);
         opacity: 0.4;
+        font-size: 20px;
     }
     
     .header-right {
