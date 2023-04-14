@@ -9,6 +9,15 @@
         opacity: 0.4;
         font-size: 20px;
     }
+    .child {
+        color: black;
+        background-color: rgba(34, 49, 52, 0.9);
+        font-size: 20px;
+    }
+    
+    header {
+        height: 70px;
+    }
     
     .header-right {
         display: none;
