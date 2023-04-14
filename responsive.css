@@ -23,6 +23,6 @@
     .wrapper {
         margin-left: 0;
         width: 100%;
-        background: #000000;
+        background-image: linear-gradient(to bottom right, blue, white);
     }
 }
